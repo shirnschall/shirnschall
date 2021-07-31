@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I'm curretnly studying technical maths in Vienna.
 
-- 😄 Pronouns: he/him
 - 💬 Find my blog at [blog.hirnschall.net](https://blog.hirnschall.net)
 - 🔭 I’m currently working on my Bachelor Thesis (numerics of PDEs)
 
