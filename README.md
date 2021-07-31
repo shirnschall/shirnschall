@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **shirnschall/shirnschall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm curretnly studying technical maths in Vienna.
+
+- 😄 Pronouns: he/him
+- 💬 Find my blog at [blog.hirnschall.net](https://blog.hirnschall.net)
+- 🔭 I’m currently working on my Bachelor Thesis (numerics of PDEs)
+
+If you have any questions feel free to send me an email or use the contact form at [hirnschall.net](https://hirnschall.net#contact).
