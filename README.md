@@ -21,3 +21,5 @@ I'm curretnly studying technical maths in Vienna.
 - 🔭 I’m currently working on my Bachelor Thesis (numerics of PDEs)
 
 If you have any questions feel free to send me an email or use the contact form at [hirnschall.net](https://hirnschall.net#contact).
+
+![](https://komarev.com/ghpvc/?username=shirnschall)
