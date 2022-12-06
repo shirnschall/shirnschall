@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 I'm curretnly studying technical maths in Vienna.
 
 - 💬 Find my blog at [blog.hirnschall.net](https://blog.hirnschall.net)
-- 🔭 I’m currently working on my Bachelor Thesis (numerics of PDEs)
+- 🥳 Just finished my Bachelor Thesis
+- 🔭 I’m currently working on my Masters Thesis (numerics of PDEs)
+- ⚡ and a very interesting Seminar Paper on topology optimization
 
 If you have any questions feel free to send me an email or use the contact form at [hirnschall.net](https://hirnschall.net#contact).
 
